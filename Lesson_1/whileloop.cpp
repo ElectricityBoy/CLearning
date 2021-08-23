@@ -12,7 +12,7 @@ int main()
             counter= counter +1;
             if (counter%3 == 0 and counter%5 == 0)
             {
-                cout <<  counter << " ";
+                cout <<  counter << " , ";
             }
         }
         
