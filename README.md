@@ -1,2 +1,2 @@
 # CLearning
-This repository was created in order to study the C language
+This repository was created in order to study C++
